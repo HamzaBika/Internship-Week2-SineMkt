@@ -30,5 +30,21 @@ o la conception UML (diagramme cas d'utilisation et classe).
 o back end (PHP POO MVC)
 </ul>
 </ul>
-
-
+------------------------------------------------------------------------------------
+<h4 align="center" > <ins>Dashboard Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/dashboard.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Add Product Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/addproduct.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Manage Products Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/manageproducts.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Trash Products Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/trashproducts.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>All Blogs Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/allblogs.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Home Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/home.PNG" alt="logo" width="90%" /></p>
