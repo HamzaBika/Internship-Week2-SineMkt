@@ -1,0 +1,25 @@
+.Blogpage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .Blogimg img {
+    max-width: 100%;
+    height: auto;
+    width: 900px; /* Adjust the width as needed */
+  }
+  .Blogdetails h2 {
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  .Blogdetails h3 {
+    font-size: 16px;
+    color: #888;
+    margin-top: 10px;
+  }
+  .Blogcontent p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
